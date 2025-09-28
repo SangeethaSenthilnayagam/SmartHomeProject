@@ -1,8 +1,5 @@
 SmartHomeProject/
- └── src/
-     └── com/
-         └── smarthome/
-             └── system/
+           └── system/
                  ├── Main.java
                  ├── App.java
                  ├── Device.java
