@@ -19,7 +19,4 @@ A console-based Smart Home simulation using **OOP + Design Patterns**:
 - Observer Pattern (for notifications)
 - Proxy Pattern (for access control)
 
-## Run Instructions
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/SmartHomeProject.git
+
